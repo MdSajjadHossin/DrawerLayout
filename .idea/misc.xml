@@ -3,13 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/drawable/ic_launcherPerson_background.xml" value="0.1" />
         <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/drawable/ic_launcherPerson_foreground.xml" value="0.1" />
         <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/layout/app_bar_main.xml" value="0.17447916666666666" />
         <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/layout/contant_layout.xml" value="0.17447916666666666" />
+        <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/layout/fragment_home.xml" value="0.16145833333333334" />
+        <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/layout/fragment_notes.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/layout/fragment_setting.xml" value="0.16145833333333334" />
         <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/layout/header_layout.xml" value="0.14666666666666667" />
         <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/menu/menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/mipmap-anydpi-v26/ic_launcherPerson.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidProjects/NavigationDrawer/app/src/main/res/mipmap-anydpi-v26/ic_launcherPerson_round.xml" value="0.1" />
       </map>
     </option>
   </component>

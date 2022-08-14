@@ -8,9 +8,10 @@
     android:background="#9C27B0">
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/ic_launcherPerson_foreground"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_baseline_person_24"
+
         android:layout_margin="10dp" />
     <TextView
         android:layout_width="wrap_content"
